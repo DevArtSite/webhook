@@ -1,7 +1,6 @@
-<p align="center">
+<h1 align="center">
   WHM (WebHookManager)
-  ========================
-</p>
+</h1>
 <p align="center">
   <a href="https://nodei.co/npm/@devartsite/whm"><img src="https://nodei.co/npm-dl/@devartsite/whm.png?months=5&height=2" alt="npm"></a>
   <a href="https://nodei.co/npm/@devartsite/whm"><img src="https://nodei.co/npm/@devartsite/whm.svg" alt="npm"></a>
